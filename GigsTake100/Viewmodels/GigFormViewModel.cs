@@ -1,8 +1,6 @@
 ﻿using GigsTake100.Models;
-using System;
+
 using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 
 namespace GigsTake100.Viewmodels
 {

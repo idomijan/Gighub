@@ -84,3 +84,4 @@ C:\Users\IgorD\documents\visual studio 2015\Projects\GigsTake100\GigsTake100\obj
 C:\Users\IgorD\documents\visual studio 2015\Projects\GigsTake100\GigsTake100\obj\Debug\GigsTake100.csproj.GenerateResource.Cache
 C:\Users\IgorD\documents\visual studio 2015\Projects\GigsTake100\GigsTake100\obj\Debug\GigsTake100.Migrations.OverrideConventionsGigsAndGenres.resources
 C:\Users\IgorD\documents\visual studio 2015\Projects\GigsTake100\GigsTake100\obj\Debug\GigsTake100.Migrations.PopulateGenresTable.resources
+C:\Users\IgorD\documents\visual studio 2015\Projects\GigsTake100\GigsTake100\obj\Debug\GigsTake100.Migrations.AddForeignKeyPropertiesToGig.resources

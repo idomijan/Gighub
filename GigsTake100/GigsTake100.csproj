@@ -227,6 +227,7 @@
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
+    <Compile Include="Viewmodels\FutureDate.cs" />
     <Compile Include="Viewmodels\GigFormViewModel.cs" />
   </ItemGroup>
   <ItemGroup>

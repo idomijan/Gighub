@@ -30,13 +30,13 @@ namespace GigsTake100.Controllers
         [HttpPost]
         public ActionResult Create(GigFormViewModel viewModel)
         {
-            var  artistId = User.Identity.GetUserId();
+            var  artistId = User.Identity.GetUserId(); // 
             //var artist = _context.Users.Single(u => u.Id == ArtistId);
             //var genre = _context.Genres.Single(g => g.Id == viewModel.Genre);
 
             var gig = new Gig {
                 ArtistId = artistId,
-                DateTime = DateTime.Parse(string.Format("{0} {1}", viewModel.Date, viewModel.Time)),
+                DateTime = viewModel.DateTime,
                 GenreId = viewModel.Genre,
                 Venue = viewModel.Venue
             };
